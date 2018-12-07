@@ -12,5 +12,5 @@ shortfile.txt, and longfile.txt. There are no restrictions for the contents of t
 contain ftclient.c and the ftclient.c executable prior to running the program. 
 
 If a binding error occurs, you can change either the control port number or the data port number on the client program and/or 
-the control port number on the server program.  Also the client and server can't be run on different flip servers, they must be
- run on the same flip server. 
+the control port number on the server program.  Also the client and server can't be run on different server address, they must be
+ run on the same server address. 
