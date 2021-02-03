@@ -1,9 +1,4 @@
 '''
-Socket client: using code from http://www.binarytides.com/python-socket-server-code-example/ to set up the sockets.
-I also used https://stackoverflow.com/questions/37799078/how-to-append-data-to-text-file-in-python-2-7-11 to get code to 
-append data to a file.  
-I also used https://stackoverflow.com/questions/18195322/pythons-logical-operator-and to get code to figure out how to use
-the and boolean operator in an if statement. 
 
 This program creates and connects to the server using the makeRequest function.  It closes that socket once it's finished 
 sending arguments.  It then creates a server socket while in the initiateContact function and then waits for the client to 
